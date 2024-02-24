@@ -77,9 +77,6 @@ print("RMSE= ",rmse)
 ![5](https://github.com/Danielmanoj/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/69635071/bffd6107-b906-47ac-8ec8-cfe5d4b44442)
 
 
-![5-1](https://github.com/Danielmanoj/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/69635071/08262751-5f15-47f4-9530-d8abd01c8f19)
-
-
 
 ![6](https://github.com/Danielmanoj/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/69635071/aa3b8b77-96d8-41ab-bf46-edbd7498d3f3)
 
